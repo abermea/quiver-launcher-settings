@@ -1,14 +1,24 @@
 {
     "apps": [
         {
-            "name": "ArtCraft",
-            "project": "Photocraft",
-            "customDisplayName": "ArtCraft Photocraft",
+            "name": "PhotoCraft",
+            "project": "ArtCraft",
+            "customDisplayName": "PhotoCraft",
             "repositorySource": "github",
             "repository": "storytold/photocraft",
             "folderName": "ArtCraft-Photocraft",
             "tags": ["pc", "app", "artcraft", "storytold", "photocraft"],
             "appIconUrl": "https://raw.githubusercontent.com/storytold/photocraft/refs/heads/main/assets/app-icon/photocraft.ico"
-        }
+        },
+        {
+            "name": "VectorCraft",
+            "project": "ArtCraft",
+            "customDisplayName": "VectorCraft",
+            "repositorySource": "github",
+            "repository": "storytold/VectorCraft",
+            "folderName": "ArtCraft-VectorCraft",
+            "tags": ["pc", "app", "artcraft", "storytold", "VectorCraft"],
+            "appIconUrl": "https://raw.githubusercontent.com/storytold/VectorCraft/refs/heads/main/assets/app-icon/VectorCraft.ico"
+        },
     ]
 }
