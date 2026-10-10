@@ -1,0 +1,14 @@
+{
+    "apps": [
+        {
+            "name": "ArtCraft",
+            "project": "Photocraft",
+            "customDisplayName": "ArtCraft Photocraft",
+            "repositorySource": "github",
+            "repository": "storytold/photocraft",
+            "folderName": "ArtCraft-Photocraft",
+            "tags": ["pc", "app", "artcraft", "storytold", "photocraft"],
+            "appIconUrl": "https://raw.githubusercontent.com/storytold/photocraft/refs/heads/main/assets/app-icon/photocraft.ico"
+        }
+    ]
+}
