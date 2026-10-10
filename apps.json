@@ -39,6 +39,36 @@
             "folderName": "ArtCraft-LightCraft",
             "tags": ["pc", "app", "artcraft", "storytold", "lightcraft"],
             "appIconUrl": "https://raw.githubusercontent.com/storytold/lightcraft/refs/heads/main/assets/app-icon/lightcraft.ico"
+        },
+        {
+            "name": "PdfCraft",
+            "project": "PdfCraft",
+            "customDisplayName": "PdfCraft",
+            "repositorySource": "github",
+            "repository": "storytold/pdfcraft",
+            "folderName": "ArtCraft-PdfCraft",
+            "tags": ["pc", "app", "artcraft", "storytold", "pdfcraft"],
+            "appIconUrl": "https://raw.githubusercontent.com/storytold/pdfcraft/refs/heads/main/assets/app-icon/pdfcraft.ico"
+        },
+        {
+            "name": "EffectCraft",
+            "project": "EffectCraft",
+            "customDisplayName": "EffectCraft",
+            "repositorySource": "github",
+            "repository": "storytold/effectcraft",
+            "folderName": "ArtCraft-EffectCraft",
+            "tags": ["pc", "app", "artcraft", "storytold", "effectcraft"],
+            "appIconUrl": "https://raw.githubusercontent.com/storytold/effectcraft/refs/heads/main/assets/app-icon/effectcraft.ico"
+        },
+        {
+            "name": "DesignCraft",
+            "project": "DesignCraft",
+            "customDisplayName": "DesignCraft",
+            "repositorySource": "github",
+            "repository": "storytold/designcraft",
+            "folderName": "ArtCraft-DesignCraft",
+            "tags": ["pc", "app", "artcraft", "storytold", "designcraft"],
+            "appIconUrl": "https://raw.githubusercontent.com/storytold/designcraft/refs/heads/main/assets/app-icon/designcraft.ico"
         }
     ]
 }
