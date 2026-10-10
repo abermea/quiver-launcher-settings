@@ -2,7 +2,7 @@
     "apps": [
         {
             "name": "PhotoCraft",
-            "project": "ArtCraft",
+            "project": "PhotoCraft",
             "customDisplayName": "PhotoCraft",
             "repositorySource": "github",
             "repository": "storytold/photocraft",
@@ -12,13 +12,33 @@
         },
         {
             "name": "VectorCraft",
-            "project": "ArtCraft",
+            "project": "VectorCraft",
             "customDisplayName": "VectorCraft",
             "repositorySource": "github",
             "repository": "storytold/vectorcraft",
             "folderName": "ArtCraft-VectorCraft",
-            "tags": ["pc", "app", "artcraft", "storytold", "VectorCraft"],
-            "appiconurl": "https://raw.githubusercontent.com/storytold/vectorcraft/refs/heads/main/assets/app-icon/vectorcraft.ico"
+            "tags": ["pc", "app", "artcraft", "storytold", "vectorcraft"],
+            "appIconUrl": "https://raw.githubusercontent.com/storytold/vectorcraft/refs/heads/main/assets/app-icon/vectorcraft.ico"
+        },
+        {
+            "name": "FilmCraft",
+            "project": "FilmCraft",
+            "customDisplayName": "FilmCraft",
+            "repositorySource": "github",
+            "repository": "storytold/filmcraft",
+            "folderName": "ArtCraft-FilmCraft",
+            "tags": ["pc", "app", "artcraft", "storytold", "filmcraft"],
+            "appIconUrl": "https://raw.githubusercontent.com/storytold/filmcraft/refs/heads/main/assets/app-icon/filmcraft.ico"
+        },
+        {
+            "name": "LightCraft",
+            "project": "LightCraft",
+            "customDisplayName": "LightCraft",
+            "repositorySource": "github",
+            "repository": "storytold/lightcraft",
+            "folderName": "ArtCraft-LightCraft",
+            "tags": ["pc", "app", "artcraft", "storytold", "lightcraft"],
+            "appIconUrl": "https://raw.githubusercontent.com/storytold/lightcraft/refs/heads/main/assets/app-icon/lightcraft.ico"
         }
     ]
 }
