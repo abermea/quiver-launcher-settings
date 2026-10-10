@@ -15,10 +15,10 @@
             "project": "ArtCraft",
             "customDisplayName": "VectorCraft",
             "repositorySource": "github",
-            "repository": "storytold/VectorCraft",
+            "repository": "storytold/vectorcraft",
             "folderName": "ArtCraft-VectorCraft",
             "tags": ["pc", "app", "artcraft", "storytold", "VectorCraft"],
-            "appIconUrl": "https://raw.githubusercontent.com/storytold/VectorCraft/refs/heads/main/assets/app-icon/VectorCraft.ico"
+            "appiconurl": "https://raw.githubusercontent.com/storytold/vectorcraft/refs/heads/main/assets/app-icon/vectorcraft.ico"
         }
     ]
 }
