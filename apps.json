@@ -69,6 +69,36 @@
             "folderName": "ArtCraft-DesignCraft",
             "tags": ["pc", "app", "artcraft", "storytold", "designcraft"],
             "appIconUrl": "https://raw.githubusercontent.com/storytold/designcraft/refs/heads/main/assets/app-icon/designcraft.ico"
+        },
+        {
+            "name": "CADCraft",
+            "project": "CADCraft",
+            "customDisplayName": "CADCraft",
+            "repositorySource": "github",
+            "repository": "storytold/cadcraft",
+            "folderName": "ArtCraft-CADCraft",
+            "tags": ["pc", "app", "artcraft", "storytold", "cadcraft"],
+            "appIconUrl": "https://raw.githubusercontent.com/storytold/cadcraft/refs/heads/main/assets/app-icon/cadcraft.ico"
+        },
+        {
+            "name": "WordCraft",
+            "project": "WordCraft",
+            "customDisplayName": "WordCraft",
+            "repositorySource": "github",
+            "repository": "storytold/wordcraft",
+            "folderName": "ArtCraft-WordCraft",
+            "tags": ["pc", "app", "artcraft", "storytold", "wordcraft"],
+            "appIconUrl": "https://raw.githubusercontent.com/storytold/wordcraft/refs/heads/main/assets/app-icon/wordcraft.ico"
+        },
+        {
+            "name": "GridCraft",
+            "project": "GridCraft",
+            "customDisplayName": "GridCraft",
+            "repositorySource": "github",
+            "repository": "storytold/gridcraft",
+            "folderName": "ArtCraft-GridCraft",
+            "tags": ["pc", "app", "artcraft", "storytold", "gridcraft"],
+            "appIconUrl": "https://raw.githubusercontent.com/storytold/gridcraft/refs/heads/main/assets/app-icon/gridcraft.ico"
         }
     ]
 }
